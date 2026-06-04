@@ -4,7 +4,7 @@ import { SectionHeading } from "./Services";
 import touchaskyImg from "@/assets/touchasky_poster.png";
 import totalhomecareImg from "@/assets/totalhomecare_poster.png";
 import aurfaImg from "@/assets/aurfa_poster.png";
-const stitchoriaImg = "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=80&w=800&h=600";
+const stitchoriaImg = "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800&h=600";
 
 const projects = [
   {
@@ -38,8 +38,8 @@ const projects = [
     title: "Stitchoria",
     domain: "stitchoria.vercel.app",
     url: "https://stitchoria.vercel.app/",
-    tag: "Fashion & Textiles",
-    desc: "A modern platform for textile and sewing enthusiasts, featuring elegant fabric collections and creative sewing resources.",
+    tag: "Fashion",
+    desc: "A modern fashion platform featuring elegant clothing collections and creative design resources.",
     accent: "from-accent/40 to-primary/30",
     image: stitchoriaImg,
   },
