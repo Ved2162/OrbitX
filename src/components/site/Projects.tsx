@@ -4,7 +4,7 @@ import { SectionHeading } from "./Services";
 import touchaskyImg from "@/assets/touchasky_poster.png";
 import totalhomecareImg from "@/assets/totalhomecare_poster.png";
 import aurfaImg from "@/assets/aurfa_poster.png";
-const stitchoriaImg = "https://images.unsplash.com/photo-1558618047-f4b519e6e7b7?auto=format&fit=crop&q=80&w=800&h=600";
+import stitchoriaImg from "@/assets/stitchoria_poster.png";
 
 const projects = [
   {
