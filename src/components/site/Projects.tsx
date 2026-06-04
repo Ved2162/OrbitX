@@ -4,7 +4,7 @@ import { SectionHeading } from "./Services";
 import touchaskyImg from "@/assets/touchasky_poster.png";
 import totalhomecareImg from "@/assets/totalhomecare_poster.png";
 import aurfaImg from "@/assets/aurfa_poster.png";
-const stitchoriaImg = "https://coresg-normal.trae.ai/api/v1/text_to_image?prompt=photorealistic%20elegant%20sewing%20and%20textile%20workshop%20poster%20with%20colorful%20threads%20fabric%20swatches%20and%20vintage%20sewing%20machine%20on%20dark%20moody%20background%20high%20quality%208k&image_size=square_hd";
+const stitchoriaImg = "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=80&w=800&h=600";
 
 const projects = [
   {
