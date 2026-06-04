@@ -4,7 +4,7 @@ import { SectionHeading } from "./Services";
 import touchaskyImg from "@/assets/touchasky_poster.png";
 import totalhomecareImg from "@/assets/totalhomecare_poster.png";
 import aurfaImg from "@/assets/aurfa_poster.png";
-import princefurnitureImg from "@/assets/princefurniture_poster.png";
+const stitchoriaImg = "https://coresg-normal.trae.ai/api/v1/text_to_image?prompt=modern%20fashion%20textile%20and%20sewing%20e-commerce%20website%20poster%20design%20with%20elegant%20threads%20fabrics%20and%20a%20sleek%20dark%20aesthetic&image_size=square_hd";
 
 const projects = [
   {
@@ -35,13 +35,13 @@ const projects = [
     image: aurfaImg,
   },
   {
-    title: "PrinceFurniture",
-    domain: "princefurniture.netlify.app",
-    url: "https://princefurniture.netlify.app",
-    tag: "E-Commerce & Retail",
-    desc: "Premium furniture e-commerce platform with rich product discovery and a smooth checkout experience.",
+    title: "Stitchoria",
+    domain: "stitchoria.vercel.app",
+    url: "https://stitchoria.vercel.app/",
+    tag: "Fashion & Textiles",
+    desc: "A modern platform for textile and sewing enthusiasts, featuring elegant fabric collections and creative sewing resources.",
     accent: "from-accent/40 to-primary/30",
-    image: princefurnitureImg,
+    image: stitchoriaImg,
   },
 ];
 
